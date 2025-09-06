@@ -9,4 +9,11 @@ int f1(int x) {
         return 2 * x; 
     else
         return -x;
+} 
+
+int main() {
+    int x;
+    cin >> x;
+    cout << f1(x);
+    return 0;
 }
