@@ -1,4 +1,4 @@
-#include <iostream>
+#include<iostream>
 
 using namespace std;
 
@@ -14,6 +14,6 @@ int f1(int x) {
 int main() {
     int x;
     cin >> x;
-    cout << f1(x);
+    cout << f1(x) << endl;
     return 0;
 }

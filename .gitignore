@@ -1,0 +1,4 @@
+/week1-lab1/*
+!/week1-lab1/*.cpp
+!/week1-lab1/*.ipynb
+!/week1-lab1/*.md
