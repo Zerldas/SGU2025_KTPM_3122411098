@@ -53,9 +53,9 @@ Case 1: x = 2
 Output:
 4
 =================================
-Case 2: x = 4
+Case 2: x = 6
 Output:
-8
+12
 =================================
 ===========Kết quả cho test case của câu e=========
 Case thứ nhất: Số thứ nhất là số lớn nhất
